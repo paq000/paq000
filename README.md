@@ -1,2 +1,2 @@
-# Hi :wave:
-I love building stuff and learning :wrench: :telescope:
+# Hi there :wave: 
+My name is Rocky. I love building stuff :wrench: 
