@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @paq000
-- 👀 I’m interested in programming and tech!
-- 🌱 I’m currently learning TypeScript!
-- 💞️ I’m looking to collaborate on a database.
+# 👋 Hi
+- I love building stuff
